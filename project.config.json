@@ -1,5 +1,5 @@
 {
-	"description": "项目配置文件。",
+	"description": "demo",
 	"packOptions": {
 		"ignore": []
 	},
@@ -11,15 +11,13 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
+	"libVersion": "2.6.2",
 	"appid": "wx99948ec9e028b56a",
-	"projectname": "wechat-xcx-demo1",
-	"svr": "",
-	"client": "",
-	"qcloudRoot": "",
-	"miniprogramRoot": "",
-	"pluginRoot": "",
+	"projectname": "沪江小程序学习",
 	"scripts": {},
+	"cloudfunctionRoot": "cloud-functions/",
+	"client": "client/",
+	"miniprogramRoot": "client/",
 	"condition": {
 		"search": {
 			"current": -1,

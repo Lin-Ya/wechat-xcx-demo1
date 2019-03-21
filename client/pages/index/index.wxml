@@ -1,0 +1,5 @@
+<!--pages/index/index.wxml-->
+<view>
+  <text>pages/index/index.wxml</text>
+  <image style='width: 50px; height: 50px' src="http://dummyimage.com/50x50/f279c8"></image>
+</view>
